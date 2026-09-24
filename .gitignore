@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+car_price_model.pkl
+cat_cols.pkl
+encoders.pkl
+feature_columns.pkl
+numeric_ranges.pkl
+.git_old/
